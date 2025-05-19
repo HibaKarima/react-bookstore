@@ -1,0 +1,26 @@
+.nav-link-custom {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  color: #000;
+  padding: 5px 0;
+}
+
+.nav-link-custom::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--color-txt-hover);
+  transition: width 0.4s ease-in-out;
+}
+
+.active-link::after {
+  width: 100%;
+}
+
+.close-icon:hover {
+  color: red
+}
