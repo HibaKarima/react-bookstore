@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FDF5E6 !important;
+  font-family: "Underdog", system-ui !important;
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+p {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+:root {
+ --color-bg-main:#FDF5E6;
+ --color-title-second:#F5DEB3;
+--color-title-details:#FFE4B5;
+ --color-btn-link:#F5DEB3;
+ --color-text-main:#333333;
+ --color-txt-second:#666666;
+ --color-txt-link:#8B4513;
+ --color-txt-hover:#593C1F;
+ --color-btn-hover:#F0E68C;
+}
