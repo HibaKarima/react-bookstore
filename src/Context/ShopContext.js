@@ -1,6 +1,6 @@
 import { createContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import books from "../assets/data";
+import {books} from "../assets/data";
 export const ShopContext = createContext();
 const ShopContextProvider = (props) => {
     const navigate = useNavigate();
