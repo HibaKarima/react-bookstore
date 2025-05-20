@@ -2,6 +2,47 @@
 
 **Book Store** is a responsive and fully interactive web application built from scratch using React. It's designed as a showcase project to reflect my growing expertise in front-end development, combining real-world functionality with thoughtful UI/UX design.
 
+# 🚀 How to Run the Project Locally
+Follow these steps to run the project on your local machine:
+
+Make sure you have the following installed:
+
+Node.js (version 14 or above recommended)
+
+npm (comes with Node.js)
+
+Git
+
+# 📦 Installation
+1.Clone the repository:
+git clone https://github.com/HibaKarima/react-bookstore.git
+cd react-bookstore
+
+2.Install dependencies:
+npm install
+
+3.Start the development server:
+npm start
+
+4.Build for production:
+npm run build
+
+ # 💡 Notes
+This project was bootstrapped with Create React App.
+
+You can explore the features such as:
+
+Responsive layout
+
+Book filtering & search
+
+Shopping cart functionality
+
+Book recommendation system
+
+Some assets or data may be mock or placeholder content for demonstration purposes.
+
+
 ## 🚀 Features
 
 - 🔍 **Search & Filter** books by genre and price
