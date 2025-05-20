@@ -5,13 +5,13 @@
 # 🚀 How to Run the Project Locally
 Follow these steps to run the project on your local machine:
 
-Make sure you have the following installed:
+_Make sure you have the following installed:
 
-Node.js (version 14 or above recommended)
+_Node.js (version 14 or above recommended)
 
-npm (comes with Node.js)
+_npm (comes with Node.js)
 
-Git
+_Git
 
 # 📦 Installation
 1.Clone the repository:
